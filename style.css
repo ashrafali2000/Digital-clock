@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+}
+#hour,#minut,#second,#am-pm,#colon{
+    background-color: rgb(224, 4, 0);
+    color: #fff;
+    padding: 2px;
+    border: 7px yellow dashed;
+    font-size: 100px;
+}
